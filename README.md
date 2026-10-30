@@ -1,2 +1,1 @@
-# Activity4
-A train safety alert application to improve passenger safety.
+I want to create a train safety alert application to improve passenger safety. This application helps passengers report dangerous situations, such as harassment, violence, without speaking. Passengers can scan a QR code or use an app with a lock screen shortcut to alert train staff. Repeated reports from the same device are limited to prevent miss alerts. My goal is to alert train staff within 30 seconds to prevent dangerous incidents, improve passenger safety, and reduce anxiety while using trains.
